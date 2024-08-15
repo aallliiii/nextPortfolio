@@ -1,7 +1,7 @@
 import React from "react";
 import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/text-generate-effect";
-
+import DownloadButton from "./CvDownload";
 const Hero = () => {
   return (
     <div className="flex flex-col items-center">
@@ -40,6 +40,7 @@ const Hero = () => {
                 Hi, I&apos;m Ali, a Next.js Developer specializing in crafting
                 high-performance, scalable web applications.
               </p>
+              <DownloadButton />
             </div>
           </div>
         </div>

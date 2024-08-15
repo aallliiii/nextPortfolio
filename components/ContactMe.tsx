@@ -4,6 +4,7 @@ import React from "react";
 import CopyButton from "./CopyButton";
 import Link from "next/link";
 import CopyButtonGmail from "./GmailButton";
+import DownloadButton from "./CvDownload";
 export function ContactMe() {
   const words = [
     {
