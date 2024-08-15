@@ -45,7 +45,7 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      <div className="mt-10">
+      <div className="mt-10 max-sm:mt-60">
         <img
           src="./MyImage.jpg"
           className=" rounded-lg"
