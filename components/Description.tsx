@@ -26,17 +26,19 @@ const Description = () => {
 
       <div className="p-5">
         <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg text-orange-400">
-          As a self-taught Full-Stack Web Developer and Node.js Enthusiast, I am
-          deeply passionate about transforming ideas into innovative and
-          efficient web solutions. My coding journey began with a robust
-          foundation in OOP, C++, and C# during my studies at UET. This
-          background has seamlessly transitioned into modern web development,
-          where I have developed a strong skill set in the MERN stack and
-          Next.js. My projects reflect this expertise, showcasing my ability to
-          create dynamic, responsive applications that solve real-world
-          problems. My dedication to continuous learning and tackling new
-          challenges fuels my creativity and commitment to delivering
-          high-quality, impactful solutions in the ever-evolving tech landscape.
+          As a self-taught Full-Stack Web Developer and Next.js Enthusiast, I am
+          passionate about transforming ideas into innovative, scalable web
+          solutions. My coding journey began with a solid foundation in OOP,
+          C++, and C# during my studies at UET, which laid the groundwork for my
+          transition into modern web development. I&apos;ve since developed
+          strong expertise in Next.js, React, Django, MongoDB, SQL, and Data
+          Structures & Algorithms (DSA), enabling me to build dynamic,
+          responsive applications that address real-world challenges. My
+          projects reflect this skill set, demonstrating a commitment to solving
+          problems through efficient, high-performance solutions. Driven by
+          continuous learning and a love for new challenges, I&apos;m dedicated
+          to delivering impactful, cutting-edge web applications in today&apos;s
+          fast-paced tech landscape.
         </p>
       </div>
     </div>

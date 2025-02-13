@@ -37,8 +37,9 @@ const Hero = () => {
               />
 
               <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                Hi, I&apos;m Ali, a Next.js Developer specializing in crafting
-                high-performance, scalable web applications.
+                Hi, I&apos;m Muhammad Ali, a full-stack developer skilled in Next.js,
+                React, and Django, passionate about building scalable,
+                high-performance web applications.
               </p>
               <DownloadButton />
             </div>
