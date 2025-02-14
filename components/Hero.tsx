@@ -37,8 +37,8 @@ const Hero = () => {
               />
 
               <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-                Hi, I&apos;m Muhammad Ali, a full-stack developer skilled in Next.js,
-                React, and Django, passionate about building scalable,
+                Hi, I&apos;m Muhammad Ali, a full-stack developer skilled in
+                Next.js, React, and Django, passionate about building scalable,
                 high-performance web applications.
               </p>
               <DownloadButton />
@@ -48,7 +48,7 @@ const Hero = () => {
       </div>
       <div className="mt-10 max-sm:mt-60">
         <img
-          src="./MyImage.jpg"
+          src="./MyImage4.png"
           className=" rounded-lg"
           alt="Bootstrap Themes"
           width="360"
