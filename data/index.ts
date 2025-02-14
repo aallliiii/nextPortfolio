@@ -36,7 +36,7 @@ export const MyProjectsData = [
     title: "Windows form Gym Management System",
     description:
       "The advanced Gym Management System is a robust application designed to streamline fitness center operations. It integrates database functionality and file handling, offering both Windows Forms and console-based interfaces. Utilizing object-oriented programming (OOP), the system ensures modularity and maintainability. It features distinct roles for members, trainers, and administrators: members can view and select workout routines and diet plans, trainers can manage and customize these plans, and administrators handle registrations, scheduling, and billing. These enhancements provide efficient and user-friendly management for small to medium-sized fitness centers.",
-    img: "/gym.jfif",
+    img: "/gym.png",
     link: "https://github.com/aallliiii/OopApp.git",
   },
   {
@@ -44,7 +44,7 @@ export const MyProjectsData = [
     title: "Console based Gym Management System",
     description:
       "The console-based Gym Management System is designed to streamline the operations of a fitness center by offering distinct roles for members, trainers, and administrators. Members can view and select personalized workout routines and diet plans curated by trainers, and track their progress. Trainers have the ability to create, read, update, and delete (CRUD) workout plans and diet schedules tailored to individual member needs. Administrators oversee and manage all aspects of the system, including member registrations, trainer assignments, class schedules, and billing operations. With an intuitive command-line interface, this system ensures efficient and user-friendly management of daily gym activities, making it an ideal solution for small to medium-sized fitness centers.",
-    img: "/gym1.jfif",
+    img: "/gymc.jpeg",
     link: "https://github.com/aallliiii/app.git",
   },
 ];

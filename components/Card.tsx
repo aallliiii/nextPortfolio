@@ -43,7 +43,7 @@ export function MyCard({ project }: MyCardProps) {
             src={project.img} // Assuming `img` contains the URL for the image
             height={1000}
             width={1000}
-            className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
+            className="h-60 w-full object-contain rounded-xl group-hover/card:shadow-xl"
             alt="thumbnail"
           />
         </CardItem>
