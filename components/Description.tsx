@@ -7,16 +7,13 @@ import { TypewriterEffect } from "./ui/typewriter-effect";
 const Description = () => {
   const words = [
     {
-      text: "Who",
+      text: "About",
     },
     {
-      text: "I",
+      text: "Me",
       className: "text-orange-400 dark:text-orange-400",
     },
-    {
-      text: "Am",
-      className: "text-orange-400 dark:text-orange-400",
-    },
+    
   ];
   return (
     <div className="mt-24">
