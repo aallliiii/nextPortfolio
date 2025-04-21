@@ -23,19 +23,9 @@ const Description = () => {
 
       <div className="p-5">
         <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg text-orange-400">
-          As a self-taught Full-Stack Web Developer and Next.js Enthusiast, I am
-          passionate about transforming ideas into innovative, scalable web
-          solutions. My coding journey began with a solid foundation in OOP,
-          C++, and C# during my studies at UET, which laid the groundwork for my
-          transition into modern web development. I&apos;ve since developed
-          strong expertise in Next.js, React, Django, MongoDB, SQL, and Data
-          Structures & Algorithms (DSA), enabling me to build dynamic,
-          responsive applications that address real-world challenges. My
-          projects reflect this skill set, demonstrating a commitment to solving
-          problems through efficient, high-performance solutions. Driven by
-          continuous learning and a love for new challenges, I&apos;m dedicated
-          to delivering impactful, cutting-edge web applications in today&apos;s
-          fast-paced tech landscape.
+        I&apos;m Muhammad Ali, a Computer Science student at UET with a focus on web development and AI. I build modern applications using Next.js, React, and Django, and develop AI solutions with Pandas, Scikit-learn, and TensorFlow.
+
+
         </p>
       </div>
     </div>
